@@ -1,0 +1,13 @@
+G:\Team Drives\HomeWork1\pitfall\pitfall\bin\Debug\pitfall.exe.config
+G:\Team Drives\HomeWork1\pitfall\pitfall\bin\Debug\pitfall.exe
+G:\Team Drives\HomeWork1\pitfall\pitfall\bin\Debug\pitfall.pdb
+G:\Team Drives\HomeWork1\pitfall\pitfall\obj\Debug\pitfall.csprojResolveAssemblyReference.cache
+G:\Team Drives\HomeWork1\pitfall\pitfall\obj\Debug\pitfall.exe
+G:\Team Drives\HomeWork1\pitfall\pitfall\obj\Debug\pitfall.pdb
+G:\Team Drives\Advance compro\pitfall\pitfall\bin\Debug\pitfall.exe.config
+G:\Team Drives\Advance compro\pitfall\pitfall\bin\Debug\pitfall.exe
+G:\Team Drives\Advance compro\pitfall\pitfall\bin\Debug\pitfall.pdb
+G:\Team Drives\Advance compro\pitfall\pitfall\obj\Debug\pitfall.csprojResolveAssemblyReference.cache
+G:\Team Drives\Advance compro\pitfall\pitfall\obj\Debug\pitfall.csproj.CoreCompileInputs.cache
+G:\Team Drives\Advance compro\pitfall\pitfall\obj\Debug\pitfall.exe
+G:\Team Drives\Advance compro\pitfall\pitfall\obj\Debug\pitfall.pdb
